@@ -23,6 +23,6 @@ function congratulateCustomer(){
 }
   let favoriteCustomer = 'bar'
 function attemptTwoFavoriteCustomers(){
-  
+
     let favoriteCustomer = 'not bar'
 }
