@@ -1,4 +1,4 @@
-var customerName = 'bob'
+var customerName = 'bob';
 const leastFavoriteCustomer = 'sour fred'
 
 function upperCaseCustomerName() {
@@ -24,5 +24,5 @@ function congratulateCustomer(){
 
 function attemptTwoFavoriteCustomers(){
     let favoriteCustomer = 'bar'
-    let favoriteCustomer = 'not bar'
+    // var favoriteCustomer = 'not bar'
 }
