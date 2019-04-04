@@ -21,8 +21,8 @@ function overWriteBestCustomer(newFavorite){
 function congratulateCustomer(){
   return `congrats ${favoriteCustomer}`
 }
-
+  let favoriteCustomer = 'bar'
 function attemptTwoFavoriteCustomers(){
-    let favoriteCustomer = 'bar'
+  
     let favoriteCustomer = 'not bar'
 }
